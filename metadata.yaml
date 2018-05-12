@@ -1,4 +1,8 @@
 _repo: The-women-Who-Came-in-the-Mayflower_50542
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50542-h/images/cover.jpg
 creator:
   author:
     agent_name: Marble, Annie Russell
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2394'
     url: http://www.gutenberg.org/2009/agents/2394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50542#The-women-Who-Came-in-the-Mayflower
 gutenberg_issued: '2015-11-23'
 gutenberg_type: Text
 identifiers:
